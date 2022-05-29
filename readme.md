@@ -1,13 +1,5 @@
 # browser-extension-template-Typescript-Version
 
-[link-webext-polyfill]: https://github.com/mozilla/webextension-polyfill
-[link-rgh]: https://github.com/sindresorhus/refined-github
-[link-ngh]: https://github.com/sindresorhus/notifier-for-github
-[link-hfog]: https://github.com/sindresorhus/hide-files-on-github
-[link-tsconfig]: https://github.com/sindresorhus/tsconfig
-[link-options-sync]: https://github.com/fregante/webext-options-sync
-[link-cws-keys]: https://github.com/DrewML/chrome-webstore-upload/blob/master/How%20to%20generate%20Google%20API%20keys.md
-[link-amo-keys]: https://addons.mozilla.org/en-US/developers/addon/api/key
 
 > Cross-browser extension boilerplate - barebones template with Parcel 2, options handler and auto-publishing.
 
@@ -22,9 +14,8 @@
 
 ## Getting started
 
-### 1️⃣ Create your own copy
-
-1. Click [<kbd>Use this template</kbd>](https://github.com/fregante/browser-extension-template/generate) to make a copy of your own. 😉
+### 1️⃣ Create your own c
+1. Click [<kbd>Use this template</kbd>](https://github.com/BadarSaghir/browser-extension-template-typescript-version/generate) to make a copy of your own. 😉
 
 Note: When you create a repository from the template, the [Template Clenup](.github/workflows/template-cleanup.yml) workflow will be triggered to delete and edit template-specific resources. Wait a moment until the workflow finishes (you will see a commit pushed with 'Template cleanup' message).
 
